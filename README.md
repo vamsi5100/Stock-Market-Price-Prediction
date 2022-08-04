@@ -82,7 +82,7 @@ Predicting the stock for future 30 weeks:
 
  
 As we can see the prediction is not looking that accurate from the plot but we can make assumptions about whether it is increasing or decreasing.
-Conclusions:
+## Conclusions:
 
 In this paper, we analyse the growth of the companies from different sectors and try to find out which is the best time span for predicting the future price of the share. So, this draws an important conclusion that companies from a certain sector have the same dependencies as well as the same growth rate. The prediction can be more accurate if the model will train with a greater number of data set. 
 Moreover, in the case of the prediction of various shares, there may be some scope of specific business analysis. We can study the different patterns of the share price of different sectors and can analyse a graph with a different time span to fine-tune the accuracy. This framework broadly helps in market analysis and prediction of the growth of different companies in different time spans. Incorporating other parameters (e.g. investor sentiment, election outcome, geopolitical stability) that are not directly correlated with the closing price may improve the prediction accuracy.
